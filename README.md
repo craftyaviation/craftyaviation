@@ -1,5 +1,5 @@
 Hello! I am CraftyAviation! Here are some things about me:
-- I am a new programmer that is proficient in JavaScript and TypeScript.
+- I am a new programmer that is constantly learning more about JavaScript and TypeScript.
 - I am currently developing my own Discord Bot that will be releasing later this year.
 
 
